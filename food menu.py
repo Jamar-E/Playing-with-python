@@ -1,5 +1,3 @@
-age = "hi"
-
 veg = ["apples", "celary", "i don't know leaves maby?"]
 vagitarian = ["apples", "celary", "i don't know leaves maby?"]
 vegan =  ["Hemp","flax" , "chia seeds"]
